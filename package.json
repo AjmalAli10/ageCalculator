@@ -1,0 +1,14 @@
+{
+  "name": "agecalculator",
+  "version": "1.0.0",
+  "description": "Age Calculator",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Ajmal Ali",
+  "license": "ISC"
+}
